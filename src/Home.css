@@ -1,0 +1,52 @@
+.Home {
+    
+    width: 100%;
+    max-width: 1120px;
+    height: 100vh;
+    margin: 0 auto;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Home section.form {
+    width: 100%;
+    max-width: 350px;
+    margin-right: 1px;
+}
+
+.Home section.form header h1 {
+    font-size: 42px;
+    font-family: sans-serif; 
+    color: rgba(255, 115, 0, 0.766);
+}
+.Home section.form header img {
+    width: 70px;
+    height: 70px;
+}
+.Home section.form form {
+    margin-top: 50px;
+}
+
+
+
+.Home section.form form p {
+    font-size: 25px;
+    font-family: sans-serif;
+    margin-bottom: 50px;
+}
+
+.Home section.form button {
+    background-color: rgba(255, 115, 0, 0.766); 
+    font-size: 24px;
+    font-family: sans-serif;
+    padding: 14px 40px;
+    color: whitesmoke;
+    border-color: rgba(255, 115, 0, 0.766) ;
+    width: 100%;
+}
+  
+
+  
+
